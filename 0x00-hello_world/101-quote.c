@@ -1,6 +1,7 @@
 #include <unistd.h>
+
 /**
- * mian - Entry point
+ * main - Entry point
  *
  * Return: 1
  */
