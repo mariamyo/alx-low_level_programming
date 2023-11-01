@@ -20,8 +20,8 @@ void times_table(void)
 				num4 = (result - num3) / 10;
 				_putchar(',');
 				_putchar(' ');
-				_putchar(num3 + '0');
 				_putchar(num4 + '0');
+				_putchar(num3 + '0');
 			}
 			else
 			{
